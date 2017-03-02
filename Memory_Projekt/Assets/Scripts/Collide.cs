@@ -9,7 +9,7 @@ public class Collide : MonoBehaviour {
     void OnCollisionEnter (Collision col) {
 		if(col.gameObject.name == "trigger")
         {
-            Instantiate(prefab, new Vector3(2.0f, 0, 0), Quaternion.identity);
+            Instantiate(prefab, new Vector3(-36.2f, 5, 25.5f), Quaternion.identity);
         }
 	}
 }
