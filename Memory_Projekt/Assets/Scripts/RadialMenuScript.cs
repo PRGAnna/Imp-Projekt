@@ -4,11 +4,18 @@ using UnityEngine;
 
 public class RadialMenuScript : MonoBehaviour {
 
+
     public void TestFunktion()
     {
         Debug.Log("Hallo");
     }
-	// Use this for initialization
+
+   // public void CreateCube()
+
+    //{
+     
+   // }
+
 	void Start () {
 		
 	}
