@@ -5,11 +5,11 @@ using UnityEngine;
 public class ChangeColorOfPlatform : MonoBehaviour {
 
     public GameObject blueArea;
-    public Color32 color32 = new Color32(0, 255, 255, 255);
+    public Color32 color = new Color32(0, 255, 255, 255);
 
     void OnTriggerEnter(Collider col)
     {     
         blueArea = GameObject.FindWithTag("AreaBlue");
-        blueArea.GetComponent<Renderer>().material.color = color32;
+        blueArea.GetComponent<Renderer>().material.color = color;
     }
 }
