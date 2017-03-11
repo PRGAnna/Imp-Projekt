@@ -25,11 +25,11 @@ public class CubeSpawner : MonoBehaviour {
 		VRTK_InteractGrab grabbingController = (collider.gameObject.GetComponent<VRTK_InteractGrab>() ? collider.gameObject.GetComponent<VRTK_InteractGrab>() : collider.gameObject.GetComponentInParent<VRTK_InteractGrab>());
 		if (CanGrab(grabbingController) && Time.time >= spawnDelayTimer)
 		{
-			GameObject newArrow = Instantiate(cubePrefab);
-			newArrow.name = "CubeClone";
-			grabbingController.GetComponent<VRTK_InteractTouch>().ForceTouch(newArrow);
+			GameObject newCube = Instantiate(cubePrefab);
+			newCube.name = "CubeClone";
+			grabbingController.GetComponent<VRTK_InteractTouch>().ForceTouch(newCube);
 			grabbingController.AttemptGrab();
-			newArrow.GetComponent<MeshRenderer>().material.color = color;
+			newCube.GetComponent<MeshRenderer>().material.color = color;
 			spawnDelayTimer = Time.time + spawnDelay;
 		}
 	}
