@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class blauerCube : MonoBehaviour {
+public class TriggerCubeRedCollider : MonoBehaviour {
 
     public GameObject prefab;
 
     void OnCollisionEnter(Collision col)
     {
-        if (col.gameObject.name == "TriggerBlue")
+        if (col.gameObject.name == "triggerRed")
         {
-            Instantiate(prefab, new Vector3(-7.2f, 1, 3.1f), Quaternion.identity);
+            Instantiate(prefab, new Vector3(-68.57f, 0, 4.98f), Quaternion.identity);
         }
     }
 }
