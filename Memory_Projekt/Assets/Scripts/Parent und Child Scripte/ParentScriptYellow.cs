@@ -9,7 +9,7 @@ public class ParentScriptYellow : MonoBehaviour {
     public void CollisionDetected(ChildScriptYellow childScriptYellow)
     {
         Debug.Log("child collided");
-        Instantiate(prefab, new Vector3(1, 2, 0.274f), Quaternion.identity);
+        Instantiate(prefab, new Vector3(-59.31f, 2, -22.5f), Quaternion.identity);
     }
 
 }
