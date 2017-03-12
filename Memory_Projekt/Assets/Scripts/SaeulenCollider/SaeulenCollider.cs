@@ -7,7 +7,7 @@ public class SaeulenCollider : MonoBehaviour {
 
     public GameObject blueSaeule;
     public Color32 color32 = new Color32(0, 255, 255, 255);
-
+   
     void OnCollisionEnter(Collision collider)
     {
         if (collider.gameObject.name == "SaeuleBlau")
