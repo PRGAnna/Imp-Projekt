@@ -11,6 +11,7 @@
         public void Button_Red()
         {
             Debug.Log("Red Button Clicked");
+			Application.LoadLevel ("Szene");
         }
 
         public void Button_Pink()
