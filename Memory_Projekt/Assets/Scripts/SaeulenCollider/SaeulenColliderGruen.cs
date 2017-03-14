@@ -17,7 +17,7 @@ public class SaeulenColliderGruen : MonoBehaviour {
 		{
 			greenSaeule = GameObject.FindWithTag("SaeuleGruen");
 				greenSaeule.GetComponent<Renderer>().material.color = color32;
-				Instantiate(prefab, new Vector3(-46.565f, 2, -23.32f), Quaternion.identity);
+				Instantiate(prefab, new Vector3(-113.338f, 2, -0.5f), Quaternion.identity);
 				}
 				}
 				}

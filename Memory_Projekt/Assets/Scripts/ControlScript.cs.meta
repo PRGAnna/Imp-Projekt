@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84ed21c540d5c0648beec2ab0beea2b4
+timeCreated: 1489492971
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - leftControllerTooltip: {fileID: 151380, guid: 910be6460ba00dc4bb13725c3ff972cb,
+      type: 2}
+  - rightControllerTooltip: {fileID: 151380, guid: 910be6460ba00dc4bb13725c3ff972cb,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

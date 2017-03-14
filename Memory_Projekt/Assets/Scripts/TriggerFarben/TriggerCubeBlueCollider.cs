@@ -10,7 +10,7 @@ public class TriggerCubeBlueCollider : MonoBehaviour {
     {
         if (col.gameObject.name == "triggerBlue")
         {
-            Instantiate(prefab, new Vector3(-68.57f, 1, 20.99f), Quaternion.identity);
+            Instantiate(prefab, new Vector3(-70.262f, 2, -50.4f), Quaternion.identity);
         }
     }
 }

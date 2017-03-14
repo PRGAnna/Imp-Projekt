@@ -28,9 +28,9 @@ public Color32 color32 = new Color32(255, 255, 7, 255);
 void OnCollisionEnter (Collision col) {
 	if(col.gameObject.name == "SaeuleGelb")
 	{
-			yellowSaeule = GameObject.FindWithTag ("SaeuleGelb");
+		yellowSaeule = GameObject.FindWithTag ("SaeuleGelb");
 		yellowSaeule.GetComponent<Renderer>().material.color = color32;
-		Instantiate(prefab, new Vector3(-46.565f, 2, -23.32f), Quaternion.identity);
+		Instantiate(prefab, new Vector3(-63.02999f, 2, -33.4f), Quaternion.identity);
 	}
 }
 }
