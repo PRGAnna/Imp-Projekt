@@ -14,7 +14,7 @@ void OnCollisionEnter (Collision col) {
 	{
 		pinkSaeule2 = GameObject.FindWithTag("SaeulePink2");
 		pinkSaeule2.GetComponent<Renderer>().material.color = color32;
-		Instantiate(prefab, new Vector3(-96.57001f, 2, -13), Quaternion.identity);
+		Instantiate(prefab, new Vector3(-98.6f, 2, -10.97f), Quaternion.identity);
 	}
 }
 }

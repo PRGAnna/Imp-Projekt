@@ -30,7 +30,7 @@ void OnCollisionEnter (Collision col) {
 	{
 		yellowSaeule = GameObject.FindWithTag ("SaeuleGelb");
 		yellowSaeule.GetComponent<Renderer>().material.color = color32;
-		Instantiate(prefab, new Vector3(-63.02999f, 2, -33.4f), Quaternion.identity);
+		Instantiate(prefab, new Vector3(-65.16f, 2, -31.09f), Quaternion.identity);
 	}
 }
 }
