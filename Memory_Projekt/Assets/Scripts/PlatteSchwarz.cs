@@ -10,7 +10,7 @@ public class PlatteSchwarz : MonoBehaviour {
 	void OnCollisionEnter (Collision col) {
 		if(col.gameObject.name == "platteSchwarz")
 		{
-			Application.LoadLevel ("Szene");
+			Application.LoadLevel ("034_Menu");
 		}
 	}
 }
