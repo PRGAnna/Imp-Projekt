@@ -1,0 +1,755 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\VRLab-02\Desktop\Cubelanet_Anna_Sieroslawski_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+UnloadTime: 0.480178 ms
+Connected to lighthouse:LHR-5178A276
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 848 -> priority: 1 
+  Thread -> id: 2c54 -> priority: 1 
+  Thread -> id: 17b4 -> priority: 1 
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer exited VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered HowToPlay on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer clicked HowToPlay on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Text (1) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer exited VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered PanelAnleitung on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Button (2) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer clicked Button (2) on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer exited VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered HowToPlay on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered Panel on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered VRTK_UICANVAS_DRAGGABLE_PANEL on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer entered StartGame on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UI Pointer clicked StartGame on Controller index [1] and the state was True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Red Button Clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.538879 ms
+
+Unloading 312 unused Assets to reduce memory usage. Loaded Objects now: 3885.
+Total: 1.339346 ms (FindLiveObjects: 0.259488 ms CreateObjectMapping: 0.082874 ms MarkObjects: 0.739356 ms  DeleteObjects: 0.252349 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 50.043766 ms
+
+Unloading 199468 unused Assets to reduce memory usage. Loaded Objects now: 2317.
+Total: 1665.831909 ms (FindLiveObjects: 14.732192 ms CreateObjectMapping: 41.471016 ms MarkObjects: 1.649739 ms  DeleteObjects: 1607.977417 ms)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+
